@@ -1,10 +1,11 @@
 import React from 'react'
 
 const Footer = () => {
+  
   return (
-    <div>
-      Footer Works!!!
-    </div>
+    <footer className="bg-black text-light py-3 text-center">
+      Copyright By &copy; TodosList.com
+    </footer>
   )
 }
 
